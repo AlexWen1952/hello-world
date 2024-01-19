@@ -1,2 +1,4 @@
 # hello-world
-The  first assignment 
+The  first assignment of Alex
+
+## Alexwen Xu
